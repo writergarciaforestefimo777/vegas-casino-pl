@@ -1,0 +1,19 @@
+{
+  "name": "VEGAS CASINO – Kasyno online w Polsce | $790 + 250 FS",
+  "short_name": "VEGAS CASINO",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#2dd4bf",
+  "background_color": "#191d24",
+  "display": "standalone"
+}
